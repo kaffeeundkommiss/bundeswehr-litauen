@@ -1,0 +1,5 @@
+{ "basis": "https://kaffeeundkommiss.github.io/bundeswehr-litauen/", "ordner": "vorschau", "site_name": "Brigade Litauen",
+  "seiten": [
+    { "datei": "index.html", "bild": "start", "kicker": "Sicherheitspolitik · seit 2025", "titel": "Brigade Litauen" },
+    { "datei": "karte.html", "bild": "karte", "kicker": "Karte", "titel": "Standorte in Litauen", "karte": "svg.kartesvg" }
+  ] }
