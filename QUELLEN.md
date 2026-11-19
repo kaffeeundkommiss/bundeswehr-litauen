@@ -44,5 +44,5 @@ Abgerufen am 14.11.2026. Nummern wie auf der Seite. Nicht voneinander unabhängi
 
 ## Offene Punkte
 - Erledigt 19.11.2026: Abstimmungsdatum 31.01.2025, Zählweise 2.800, „unbefristet“ (jetzt „dauerhaft“ plus Vertragslaufzeit).
-- Ort des Sanitätszentrums (Rokantiškės laut [14], Rudninkai laut [1]); die Seite nennt keinen Ort, daher ohne Auswirkung. Recherche 19.11. ohne Klärung.
-- Widerspruch Roadmap Dezember 2023 (Bundeswehr) und „Roadmap Action Plan“ Dezember 2024 (kam.lt): Recherche 19.11. ohne Klärung; die Seite nennt nur die Roadmap vom 18.12.2023.
+- Ort des Sanitätszentrums (Rokantiškės laut [14], Rudninkai laut [1]); die Seite nennt keinen Ort, daher ohne Auswirkung. Recherche 19.11. ohne Klärung. Zweite Recherche 19.11.2026: keine weitere Quelle zum Ort gefunden (LRT nennt nur Rūdninkai und Rukla als Standorte der Brigade). Die Seite nennt weiterhin keinen Ort.
+- Widerspruch Roadmap Dezember 2023 (Bundeswehr) und „Roadmap Action Plan“ Dezember 2024 (kam.lt): Recherche 19.11. ohne Klärung; die Seite nennt nur die Roadmap vom 18.12.2023. Nachtrag 19.11.2026 (zweite Recherche): LRT/BNS „Ministers sign plan for German brigade deployment in Lithuania“ (18.12.2023) nennt das am 18.12.2023 unterzeichnete Dokument „action plan“; LRT „Vilnius holds inauguration of German brigade“ (Mai 2025) spricht vom „action plan signed in December 2023“. Roadmap und Aktionsplan sind demnach wohl dasselbe Dokument vom Dezember 2023; die Angabe „December 2024“ bei kam.lt bleibt unerklärt (Vermutung: Datierungsfehler, nicht belegt). Keine Änderung an der Seite nötig.
