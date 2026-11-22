@@ -42,6 +42,15 @@ Abgerufen am 14.11.2026. Nummern wie auf der Seite. Nicht voneinander unabhängi
 | Dauerhafte Stationierung | [4]; [28]; [20] | [4] „Die dauerhafte Stationierung einer Brigade in Litauen …“; [28] „Dafür soll sie dauerhaft in Litauen stationiert sein.“ | belegt; „unbefristet“ ([20]) ersetzt |
 | Inkrafttreten 08.04.2025, Gesetz vom 24.02.2025 | [31] | „Gesetzes vom 24. Februar 2025 … dass das Abkommen … am 8. April 2025 in Kraft getreten ist“ | eine Quelle |
 
+## Begriffserklärungen (ergänzt 22.11.2026)
+
+Abgerufen am 22.11.2026. Die Erklärungen stehen beim ersten Vorkommen des Begriffs im Fließtext. Wikipedia und Constellatio sind nur ergänzend genutzt.
+
+| Begriff (Erklärung auf der Seite) | Quellen | Passage (wörtlich, gekürzt) | Bewertung |
+|---|---|---|---|
+| Brigade: Großverband des Heeres aus mehreren Bataillonen | [32]; [33] | [32] „Eine Brigade vereint mehrere Bataillone und unterschiedliche militärische Fähigkeiten in einem Großverband.“; [33] „Die Brigade ist der kleinste Großverband. Mehrere Bataillone …“ | belegt |
+| Erste Lesung: erste von in der Regel drei Beratungen eines Gesetzentwurfs | [34]; [35] | [34] „Gesetzentwürfe durchlaufen im Bundestag in der Regel drei Beratungen (sogenannte Lesungen)“; [35] Abschnitt „Erste Lesung: Nachdem der Entwurf als Drucksache an alle Bundestagsabgeordneten verteilt wurde …“ | belegt; Zahl drei nur [34] wörtlich gesehen; [35] ohne Seitenzahl |
+
 ## Offene Punkte
 - Erledigt 19.11.2026: Abstimmungsdatum 31.01.2025, Zählweise 2.800, „unbefristet“ (jetzt „dauerhaft“ plus Vertragslaufzeit).
 - Ort des Sanitätszentrums (Rokantiškės laut [14], Rudninkai laut [1]); die Seite nennt keinen Ort, daher ohne Auswirkung. Recherche 19.11. ohne Klärung. Zweite Recherche 19.11.2026: keine weitere Quelle zum Ort gefunden (LRT nennt nur Rūdninkai und Rukla als Standorte der Brigade). Die Seite nennt weiterhin keinen Ort.
